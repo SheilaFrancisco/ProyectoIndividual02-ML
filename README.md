@@ -1,6 +1,7 @@
 # ProyectoIndividual02-ML
 
-Loading ...
+**´Loading ...´**
+<br/>
 <br/>
 Para este proyecto se proporcionaron dos datasets que contenían información sobre inmuebles en Estados Unidos. 
 Con ellos se solicitaba desarrollar un modelo de Machine Learning para predecir el precio de inmuebles.
