@@ -1,6 +1,6 @@
 # ProyectoIndividual02-ML
 
-**´Loading ...´**
+***Loading ...***
 <br/>
 <br/>
 Para este proyecto se proporcionaron dos datasets que contenían información sobre inmuebles en Estados Unidos. 
